@@ -1,0 +1,11 @@
+target_id,target_name,pathway,hallmark_id,hallmark_name,evidence_level,pdb_ids,relevance,notes
+MTOR,mTOR,mTORC1/营养感知,nutrient_sensing,营养感知失调,high,4JSV;5FLC,0.92,雷帕霉素类和营养感知核心节点
+AMPK,AMPK,能量感知,nutrient_sensing,营养感知失调,medium,4CFF,0.78,二甲双胍相关代谢调节节点
+SIRT1,SIRT1,NAD+/表观遗传,epigenetics,表观遗传改变,medium,4ZZJ,0.72,NAD 代谢和去乙酰化相关节点
+CD38,CD38,NAD+ 消耗/inflammaging,intercellular_communication,细胞间通讯改变,medium,1YH3,0.68,NAD 消耗和炎症相关靶点
+BCL2,BCL-2,衰老细胞存活,senescence,细胞衰老,medium,4LVT,0.76,senolytic 设计常见抗凋亡靶点
+JAK1,JAK1,JAK/STAT 炎症,inflammation,慢性炎症,medium,6N7A,0.70,SASP 和炎症信号相关
+PI3K,PI3K,生长因子/营养感知,nutrient_sensing,营养感知失调,medium,4JPS,0.66,与 mTOR 上游和代谢通路相关
+NFE2L2,Nrf2,氧化应激/蛋白稳态,proteostasis,蛋白稳态丧失,medium,,0.62,细胞应激防御和蛋白稳态
+PPARG,PPAR-gamma,代谢/炎症,inflammation,慢性炎症,medium,2PRG,0.58,代谢炎症调节节点
+GLP1R,GLP-1R,代谢/炎症,nutrient_sensing,营养感知失调,medium,7LCI,0.60,代谢健康和体重相关转化靶点

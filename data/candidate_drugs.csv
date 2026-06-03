@@ -1,0 +1,7 @@
+candidate_id,name,target_hallmarks,expression_reversal,safety,translational_evidence,trial_feasibility,regulatory_readiness,biomarker_relevance,evidence_sources,mechanism,notes
+rapamycin,雷帕霉素,nutrient_sensing;proteostasis;macroautophagy;inflammation,0.74,0.55,0.84,0.62,0.46,0.70,hallmarks2023;itp_jax;miller_itp,mTORC1 抑制,动物寿命研究证据较强，但免疫抑制和代谢安全性需要重点监测
+metformin,二甲双胍,nutrient_sensing;inflammation;mitochondria,0.58,0.86,0.72,0.91,0.74,0.68,hallmarks2023;tame_afar;geroscience_endpoints,AMPK 激活与代谢调节,临床安全性资料较充分，适合作为药物重定位和复合终点设计样例
+dasatinib_quercetin,达沙替尼 + 槲皮素,senescence;inflammation;intercellular_communication,0.66,0.48,0.60,0.54,0.38,0.64,hallmarks2023;geroscience_endpoints,清除衰老细胞组合,间歇给药可能提升可行性，但肿瘤药安全性和人群选择仍需谨慎
+urolithin_a,尿石素 A,mitochondria;macroautophagy;proteostasis,0.62,0.78,0.56,0.74,0.52,0.58,hallmarks2023;biomarkers_review,激活线粒体自噬,消费级暴露和早期人体证据较有利，但临床硬终点证据仍有限
+acarbose,阿卡波糖,nutrient_sensing;inflammation;dysbiosis,0.54,0.76,0.70,0.67,0.61,0.52,itp_jax;acarbose_itp,餐后血糖峰值控制,ITP 小鼠寿命证据突出，人体抗衰转化仍需围绕代谢和功能终点设计
+canagliflozin,卡格列净,nutrient_sensing;mitochondria;inflammation,0.50,0.62,0.64,0.59,0.57,0.50,itp_jax,SGLT2 抑制与代谢调节,ITP 显示性别差异信号，临床转化需关注适应证、安全性和人群分层

@@ -1,0 +1,51 @@
+org_id,name,org_type,country,city,focus,tags,url,notes
+org001,Altos Labs,company,USA,San Francisco,cellular rejuvenation and reprogramming,partial_reprogramming;cell_rejuvenation,https://altoslabs.com/,High profile reprogramming company
+org002,NewLimit,company,USA,South San Francisco,epigenetic reprogramming and cell age models,partial_reprogramming;single_cell;ai,https://www.newlimit.com/,AI and single cell led reprogramming discovery
+org003,Life Biosciences,company,USA,Boston,aging therapeutics and partial epigenetic reprogramming,partial_reprogramming;ophthalmology,https://www.lifebiosciences.com/,Develops aging biology programs including reprogramming
+org004,Retro Biosciences,company,USA,Redwood City,cellular rejuvenation and longevity therapeutics,cell_rejuvenation;autophagy;plasma,https://www.retrobio.com/,Longevity biotechnology platform
+org005,Calico,company,USA,South San Francisco,aging biology and age related disease,aging_biology;drug_discovery,https://www.calicolabs.com/,Alphabet backed aging biology company
+org006,Rejuvenate Bio,company,USA,San Diego,gene therapy for age related disease,gene_therapy;cardiac;metabolic,https://rejuvenatebio.com/,Gene therapy longevity company
+org007,Turn Biotechnologies,company,USA,Mountain View,mRNA epigenetic reprogramming,mrna;partial_reprogramming;delivery,https://turn.bio/,Transient reprogramming platform
+org008,Shift Bioscience,company,UK,Cambridge,cell simulation and rejuvenation factors,ai;cell_rejuvenation;factors,https://shiftbioscience.com/,Computational discovery for cell rejuvenation
+org009,YouthBio Therapeutics,company,USA,San Francisco,partial reprogramming gene therapy,partial_reprogramming;gene_therapy,https://www.youthbiotherapeutics.com/,Reprogramming focused startup
+org010,AgeX Therapeutics,company,USA,Alameda,regenerative medicine and induced tissue regeneration,regeneration;cell_therapy,https://www.agexinc.com/,Regenerative medicine oriented company
+org011,Insilico Medicine,company,Hong Kong,Hong Kong,AI drug discovery for aging and disease,ai;drug_discovery;aging,https://insilico.com/,AI drug discovery company with aging roots
+org012,BioAge Labs,company,USA,Richmond,omics driven aging therapeutics,omics;drug_discovery;aging,https://bioagelabs.com/,Human aging data driven therapeutics
+org013,Fauna Bio,company,USA,Emeryville,comparative genomics for disease and longevity,comparative_genomics;drug_discovery,https://www.faunabio.com/,Uses animal biology to find drug targets
+org014,Cambrian Bio,company,USA,New York,portfolio of longevity therapeutics,longevity;portfolio,https://www.cambrianbio.com/,Longevity biotech builder
+org015,Unity Biotechnology,company,USA,South San Francisco,senolytic and age related disease programs,senolytic;ophthalmology,https://unitybiotechnology.com/,Senescence focused aging company
+org016,Rubedo Life Sciences,company,USA,Sunnyvale,senescent cell targeting and age related disease,senolytic;inflammation,https://www.rubedolife.com/,Targets pathological aged cells
+org017,Oisin Biotechnologies,company,USA,Seattle,gene therapy senolytics and oncology,senolytic;gene_therapy,https://www.oisinbio.com/,Programmable gene therapy approach
+org018,Genflow Biosciences,company,UK,London,SIRT6 gene therapy and longevity,gene_therapy;sirtuin,https://genflowbio.com/,SIRT6 focused longevity company
+org019,Repair Biotechnologies,company,USA,Syracuse,damage repair and cholesterol aging programs,damage_repair;atherosclerosis,https://www.repairbiotechnologies.com/,Damage repair oriented longevity company
+org020,Gordian Biotechnology,company,USA,San Francisco,in vivo screening for age related disease,screening;aging_models,https://www.gordian.bio/,In vivo discovery platform
+org021,Shenzhen Bay Laboratory,research_institute,China,Shenzhen,aging disease and biomedical innovation,china;institute;aging,https://www.szbl.ac.cn/,Important Greater Bay Area biomedical institute
+org022,Westlake University,university,China,Hangzhou,life science aging stem cell and epigenetics,china;university;epigenetics,https://www.westlake.edu.cn/,Strong life science research base
+org023,Tsinghua University,university,China,Beijing,life science epigenetics and regenerative medicine,china;university;epigenetics,https://www.tsinghua.edu.cn/,Major Chinese university
+org024,Peking University,university,China,Beijing,aging biology stem cells and genomics,china;university;aging,https://www.pku.edu.cn/,Major Chinese university
+org025,CAS Institute of Zoology,research_institute,China,Beijing,aging stem cells and reproductive biology,china;cas;aging,https://english.ioz.cas.cn/,CAS institute with aging biology programs
+org026,CAS Center for Excellence in Molecular Cell Science,research_institute,China,Shanghai,cell biology epigenetics and stem cell research,china;cas;cell_biology,https://english.cemcs.cas.cn/,CAS molecular cell science center
+org027,Guangzhou Institutes of Biomedicine and Health CAS,research_institute,China,Guangzhou,stem cells regeneration and biomedical research,china;cas;stem_cell,https://english.gibh.cas.cn/,CAS biomedical institute
+org028,Fudan University,university,China,Shanghai,life science genomics and aging disease,china;university;genomics,https://www.fudan.edu.cn/,Major Chinese university
+org029,Shanghai Jiao Tong University,university,China,Shanghai,medicine genomics and regenerative biology,china;university;medicine,https://en.sjtu.edu.cn/,Major Chinese university
+org030,Zhejiang University,university,China,Hangzhou,life science medicine and aging research,china;university;medicine,https://www.zju.edu.cn/english/,Major Chinese university
+org031,Sun Yat-sen University,university,China,Guangzhou,medicine stem cell and aging related disease,china;university;medicine,https://www.sysu.edu.cn/sysuen/,Major Chinese university
+org032,Southern University of Science and Technology,university,China,Shenzhen,biomedical science and systems biology,china;university;shenzhen,https://www.sustech.edu.cn/en/,Shenzhen research university
+org033,Chinese University of Hong Kong Shenzhen,university,China,Shenzhen,biomedicine data science and life science,china;university;shenzhen,https://www.cuhk.edu.cn/en,Shenzhen research university
+org034,ShanghaiTech University,university,China,Shanghai,life science technology and biomedical research,china;university;biomedicine,https://www.shanghaitech.edu.cn/eng/,Research university in Shanghai
+org035,National Center for Protein Science Shanghai,research_institute,China,Shanghai,protein science omics and biomedical platforms,china;platform;omics,https://www.ncpss.org/,Useful platform partner for omics
+org036,Salk Institute,research_institute,USA,La Jolla,cellular reprogramming aging and regenerative biology,partial_reprogramming;aging;institute,https://www.salk.edu/,Influential reprogramming and aging research base
+org037,Harvard Medical School,university,USA,Boston,genetics aging and epigenetic information theory,aging;epigenetics;university,https://hms.harvard.edu/,Major aging research environment
+org038,Stanford University,university,USA,Stanford,stem cell aging and regenerative medicine,stem_cell;aging;university,https://www.stanford.edu/,Major biomedical research university
+org039,Buck Institute for Research on Aging,research_institute,USA,Novato,aging biology and longevity therapeutics,aging;longevity;institute,https://www.buckinstitute.org/,Dedicated aging research institute
+org040,Babraham Institute,research_institute,UK,Cambridge,epigenetics immunology and aging,epigenetics;aging;institute,https://www.babraham.ac.uk/,Strong epigenetics and aging institute
+org041,UC San Diego,university,USA,San Diego,aging epigenomics systems biology and medicine,aging;epigenomics;university,https://ucsd.edu/,Major aging and systems biology research base
+org042,Gladstone Institutes,research_institute,USA,San Francisco,cell biology disease and regenerative medicine,cell_biology;regeneration;institute,https://gladstone.org/,Bay Area biomedical institute
+org043,Max Planck Institute for Biology of Ageing,research_institute,Germany,Cologne,biology of aging and longevity mechanisms,aging;longevity;institute,https://www.age.mpg.de/,Dedicated aging institute
+org044,Leibniz Institute on Aging FLI,research_institute,Germany,Jena,aging biology and age related disease,aging;institute,https://www.leibniz-fli.de/,Dedicated aging institute
+org045,Kyoto University CiRA,research_institute,Japan,Kyoto,iPSC and cellular reprogramming,ipsc;reprogramming;institute,https://www.cira.kyoto-u.ac.jp/e/,Leading iPSC research institute
+org046,RIKEN Center for Biosystems Dynamics Research,research_institute,Japan,Kobe,development stem cells and biosystems dynamics,stem_cell;systems_biology,https://www.bdr.riken.jp/en/,Stem cell and systems biology institute
+org047,University of Cambridge,university,UK,Cambridge,stem cell biology epigenetics and medicine,stem_cell;epigenetics;university,https://www.cam.ac.uk/,Major research university
+org048,University of Copenhagen CBMR,university,Denmark,Copenhagen,metabolism genomics and cardiometabolic aging,metabolism;genomics;aging,https://cbmr.ku.dk/,Metabolism and genomics research center
+org049,Mayo Clinic,research_institute,USA,Rochester,senescence aging disease and translational medicine,senescence;clinical;aging,https://www.mayo.edu/research,Translational aging research environment
+org050,Broad Institute,research_institute,USA,Cambridge,genomics perturbation screens and biomedical data,genomics;screening;ai,https://www.broadinstitute.org/,Useful genomics and perturbation platform reference

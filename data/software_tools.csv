@@ -1,0 +1,13 @@
+tool_id,name,category,role,url,integration_status,notes
+rdkit,RDKit,化学信息学,SMILES 解析、描述符、Morgan 指纹、QED 和分子绘图,https://www.rdkit.org/,可选自动检测,已在代码中作为优先后端；未安装时使用轻量规则
+autodock_vina,AutoDock Vina,结构对接,蛋白-小分子 docking 和虚拟筛选,https://autodock-vina.readthedocs.io/,可选自动检测,检测到命令行程序后可接入真实 docking
+gnina,GNINA,深度学习对接,CNN scoring 与 docking pose reranking,https://github.com/gnina/gnina,规划接入,适合作为 Vina 后的深度学习重评分模块
+swisstargetprediction,SwissTargetPrediction,靶点预测,基于 2D/3D 相似性预测小分子蛋白靶点,http://www.swisstargetprediction.ch/,方法参考,当前用本地配体相似性实现轻量版本
+sea,Similarity Ensemble Approach,靶点预测,基于配体集合相似性推断靶点,https://sea.bkslab.org/,方法参考,当前相似性靶点预测可扩展为 SEA 风格统计检验
+admetlab,ADMETlab 3.0,ADMET,综合 ADMET、理化性质和药物化学评估,https://admetlab3.scbdd.com/,规划接入,当前用规则模型给出 ADMET 风险标签
+deepchem,DeepChem,分子机器学习,分子 ML、图模型和药物发现建模,https://deepchem.io/,规划接入,可用于后续训练 ADMET/DTI 模型
+pubchem,PubChem PUG-REST,化学数据库,按名称、CID、SMILES 获取结构和性质,https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest,规划接入,可用于从化合物名解析 SMILES 和补充属性
+chembl,ChEMBL,活性数据库,化合物、靶点、活性和相似性搜索,https://github.com/chembl/chembl_webresource_client,规划接入,可用于扩展 known_ligands 和 target activity
+rcsb_pdb,RCSB PDB,结构数据库,获取 PDB 结构、配体和实验结构元数据,https://data.rcsb.org/index.html,规划接入,可用于真实 docking 的受体结构获取
+bindingdb,BindingDB,结合数据库,蛋白-小分子结合数据和活性记录,https://www.bindingdb.org/rwd/bind/BindingDBRESTfulAPI.jsp,规划接入,可用于训练/验证靶点预测和 docking scoring
+pubmed,PubMed E-utilities,文献数据库,按关键词检索论文并抓取 PMID、摘要、DOI 和期刊元数据,https://www.ncbi.nlm.nih.gov/books/NBK25501/,已接入,用于文献雷达和结构化证据抽取

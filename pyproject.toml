@@ -1,0 +1,19 @@
+[project]
+name = "asclepius"
+version = "0.1.0"
+description = "Prototype simulator for geroscience-guided anti-aging drug R&D workflows."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+chemistry = [
+  "rdkit",
+]
+
+[project.scripts]
+asclepius = "gerodrug_sim.cli:main"
+asclepius-desktop = "gerodrug_sim.desktop:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

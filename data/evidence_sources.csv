@@ -1,0 +1,15 @@
+source_id,title,evidence_type,source,year,url,quality,notes
+hallmarks2023,Hallmarks of aging: An expanding universe,机制框架,Cell,2023,https://www.cell.com/cell/fulltext/S0092-8674(22)01377-0,0.95,将衰老标志扩展为 12 项并强调干预可塑性
+itp_jax,NIA Interventions Testing Program,转化前研究,JAX Aging Center,2026,https://www.jax.org/research-and-faculty/research-centers/aging-center/research/itp,0.88,多站点测试口服干预对 UM-HET3 小鼠寿命和健康结局的影响
+miller_itp,NIA ITP genetically heterogeneous mouse model,转化前研究,EBioMedicine,2017,https://www.sciencedirect.com/science/article/pii/S2352396416305540,0.84,总结 ITP 设计和雷帕霉素、阿卡波糖等信号
+acarbose_itp,Acarbose improves health and lifespan in aging HET3 mice,转化前研究,Aging Cell,2019,https://pmc.ncbi.nlm.nih.gov/articles/PMC6413665/,0.82,阿卡波糖在 HET3 小鼠中改善寿命和部分健康结局
+tame_afar,Targeting Aging with Metformin Trial,临床试验设计,AFAR,2026,https://www.afar.org/tame-trial,0.86,TAME 采用多中心、年龄相关疾病复合终点思路
+geroscience_endpoints,Endpoints for geroscience clinical trials,试验终点,GeroScience,2023,https://link.springer.com/article/10.1007/s11357-022-00671-8,0.83,建议将功能、疾病事件和生物标志物组合用于 geroscience 试验
+fda_surrogates,Surrogate endpoint resources,监管,FDA,2026,https://www.fda.gov/drugs/development-resources/surrogate-endpoint-resources-drug-and-biologic-development,0.90,提示 surrogate endpoint 需要能预测临床获益
+biomarkers_review,Biomarkers of aging and evaluation techniques,生物标志物综述,Review,2024,https://pmc.ncbi.nlm.nih.gov/articles/PMC11081160/,0.74,总结表观遗传时钟、表型时钟和多组学生物标志物
+rose_adashi2025,Targeted partial reprogramming as a novel therapeutic strategy for age-related decline,部分重编程综述,Ageing Research Reviews,2025,https://doi.org/10.1016/j.arr.2025.102731,0.78,强调靶向部分重编程需要解决特异性和致癌风险
+lu2020,Reprogramming to recover youthful epigenetic information and restore vision,部分重编程实验,Nature,2020,https://doi.org/10.1038/s41586-020-2975-4,0.90,OSK 体内重编程恢复年轻表观遗传信息并改善视觉相关模型
+ocampo2016,In vivo amelioration of age-associated hallmarks by partial reprogramming,部分重编程实验,Cell,2016,https://doi.org/10.1016/j.cell.2016.11.052,0.88,周期性体内重编程改善早衰模型多个衰老标志
+abad2013,Reprogramming in vivo produces teratomas and iPS cells with totipotency features,安全性警示,Nature,2013,https://doi.org/10.1038/nature12586,0.86,提示体内重编程失控可能产生畸胎瘤和多能样细胞
+takahashi2006,Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors,iPSC 基础,Cell,2006,https://doi.org/10.1016/j.cell.2006.07.024,0.92,山中因子小鼠 iPSC 经典论文
+takahashi2007,Induction of pluripotent stem cells from adult human fibroblasts by defined factors,iPSC 基础,Cell,2007,https://doi.org/10.1016/j.cell.2007.11.019,0.92,山中因子人 iPSC 经典论文

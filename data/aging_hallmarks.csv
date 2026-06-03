@@ -1,0 +1,13 @@
+hallmark_id,name,weight,description
+genomic_instability,基因组不稳定,0.08,DNA 损伤和突变负荷随年龄累积
+telomere_attrition,端粒耗损,0.06,端粒缩短限制细胞复制和组织更新
+epigenetics,表观遗传改变,0.08,染色质状态和甲基化模式随年龄漂移
+proteostasis,蛋白稳态丧失,0.08,蛋白折叠和清除能力随年龄下降
+macroautophagy,巨自噬受损,0.07,细胞组分回收和质量控制能力下降
+nutrient_sensing,营养感知失调,0.09,mTOR、AMPK、胰岛素和 IGF 信号调控异常
+mitochondria,线粒体功能障碍,0.10,线粒体质量控制和代谢韧性下降
+senescence,细胞衰老,0.11,生长停滞且分泌炎症因子的细胞逐渐积累
+stem_cells,干细胞耗竭,0.08,再生细胞库和组织修复能力下降
+intercellular_communication,细胞间通讯改变,0.08,组织和免疫信号网络失衡
+inflammation,慢性炎症,0.10,持续的无菌性炎症信号增强
+dysbiosis,肠道菌群失调,0.07,微生态改变影响代谢、炎症和免疫稳态

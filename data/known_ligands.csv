@@ -1,0 +1,11 @@
+ligand_id,name,smiles,target_id,activity_type,activity_value,evidence
+rapamycin,雷帕霉素,CC1CCC2C(C(C(CC(O2)OC)C(=O)C(C)C=CC(C)C(C(C=CC=C3COC(=O)C(C(C(C(=CC=CC(C(=O)C(C(C1O)C)O)C)OC)C)OC)C)O3)C)O)OC,MTOR,known ligand,reference,免疫抑制剂和 mTORC1 抑制剂
+metformin,二甲双胍,CN(C)C(=N)N=C(N)N,AMPK,indirect activator,reference,代谢调节和 TAME 样例
+resveratrol,白藜芦醇,Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1,SIRT1,reported modulator,reference,SIRT1 相关天然产物
+quercetin,槲皮素,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,BCL2,reported senolytic partner,reference,senolytic 组合候选
+ruxolitinib,鲁索替尼,N#CC(C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1,JAK1,known inhibitor,reference,JAK 抑制剂
+acarbose,阿卡波糖,CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)NC3C(C(C(C(O3)CO)O)O)O,PPARG,metabolic comparator,reference,ITP 代谢干预样例
+canagliflozin,卡格列净,CCOC1=CC=C(C=C1)CC2=C(SC=C2)C3=CC(=C(C=C3)F)C4C(C(C(C(O4)CO)O)O)O,GLP1R,metabolic comparator,reference,SGLT2 抑制剂作为代谢干预参照
+apigenin,芹菜素,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,CD38,reported inhibitor,reference,CD38/NAD 相关天然产物
+sulforaphane,萝卜硫素,CS(=O)CCCCN=C=S,NFE2L2,pathway activator,reference,Nrf2 通路激活相关
+wortmannin,渥曼青霉素,CC1=C2C(=O)C3(C(C(OC3(C)C)C=C2C(=O)O1)OC(=O)C)C,PI3K,known inhibitor,reference,PI3K 参照配体

@@ -1,0 +1,8 @@
+endpoint_id,name,category,importance,description
+multimorbidity,年龄相关多病共存复合终点,临床结局,0.95,参考 TAME 思路，关注心血管事件、癌症、认知障碍、糖尿病和死亡等复合事件
+frailty_index,衰弱指数,功能结局,0.88,结合症状、体能和缺陷累积，适合 geroscience 预防性试验
+gait_speed,步速,功能结局,0.80,简单、可重复，与老年健康状态和功能风险相关
+quality_of_life,生活质量,患者报告结局,0.72,补充临床获益和功能结局，帮助区分健康老化与非健康老化
+inflammation_panel,炎症因子组合,探索性生物标志物,0.70,用于观察慢性炎症和 SASP 相关通路变化
+epigenetic_clock,表观遗传时钟,探索性生物标志物,0.62,可作为研究指标，但不应单独替代临床获益终点
+adverse_events,不良事件和停药率,安全性结局,0.92,抗衰干预通常面向相对健康人群，安全性阈值应更严格
